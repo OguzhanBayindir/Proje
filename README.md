@@ -1,0 +1,2 @@
+# Proje
+html static blog
